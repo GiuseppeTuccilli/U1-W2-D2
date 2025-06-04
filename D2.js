@@ -72,7 +72,7 @@ if (sal >= 50) {
   sped = 10;
 }
 
-tot = sal + sped;
+let tot = sal + sped;
 
 /* ESERCIZIO 6
   Stai lavorando su un sito di e-commerce. Oggi è il Black Friday e viene applicato il 20% su ogni prodotto.
@@ -90,7 +90,7 @@ if (salBf >= 50) {
   spedBf = 10;
 }
 
-totBf = salBf + spedBf;
+let totBf = salBf + spedBf;
 
 /* ESERCIZIO 7
   Crea tre variabili, e assegna un valore numerico a ciascuna di esse.
